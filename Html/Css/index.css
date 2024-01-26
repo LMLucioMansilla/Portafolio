@@ -1,0 +1,66 @@
+body{
+    background-image: url("https://img1.wallspic.com/crops/8/8/4/0/3/130488/130488-ilustracion_de_planeta_azul_y_morado-3840x2160.jpg");
+    background-size: cover; 
+    background-attachment: fixed;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    color: white
+}
+header{
+    text-align: center;
+}
+
+h1{
+    
+    color: rgba(181, 253, 222, 0.655) ;
+}
+h2{
+    color: #ADB597
+}
+nav{
+    display: inline-flex;
+    font-style: initial;
+    background-color: #779752, 0.4;
+    justify-content: right;
+    margin: 0;
+    
+}
+nav a{
+    
+    color:#ADB597;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+nav li{
+    padding: 15px;
+    margin-right: 10px
+}
+.listas{
+   
+    list-style: none;
+    text-align: flex;
+    display: inline-flex;
+    border-radius: 200px;
+}
+.Perfil{
+    width: 30px; 
+    
+}
+section{
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.Logo{
+    width: 200px;
+}
+
+footer{
+    background-color: rgba(255, 255, 255, 0.2);
+    display: inline-flex;
+}
