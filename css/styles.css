@@ -19,15 +19,17 @@ h2{
 }
 nav{
     display: inline-flex;
-    font-style: initial;
-    background-color: #779752, 0.4;
+    font-style:inherit ;
+    background-color: #abb4a1, 0.4;
     justify-content: right;
     margin: 0;
+    float: right;
+    -webkit-text-stroke: 0.5px black;
     
 }
 nav a{
     
-    color:#ADB597;
+    color:#949690;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 nav ul{
